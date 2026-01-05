@@ -2,14 +2,21 @@
   "plugins": {
     "plugins-manager": {
       "versions": {
-        "0.0.1-SNAPSHOT": "https://github.com/Rawad-AG/forge-plugins/raw/refs/heads/main/plugins-manager-0.0.1-SNAPSHOT.jar"
+        "0.0.1-SNAPSHOT": "https://raw.githubusercontent.com/Rawad-AG/forge-plugins/main/plugins/plugins-manager-0.0.1-SNAPSHOT.jar"
       },
       "latest": "0.0.1-SNAPSHOT"
     },
 
     "make": {
       "versions": {
-        "0.0.1-SNAPSHOT": "https://github.com/Rawad-AG/forge-plugins/raw/refs/heads/main/make-0.0.1-SNAPSHOT.jar"
+        "0.0.1-SNAPSHOT": "https://raw.githubusercontent.com/Rawad-AG/forge-plugins/main/plugins/make-0.0.1-SNAPSHOT.jar"
+      },
+      "latest": "0.0.1-SNAPSHOT"
+    },
+
+    "archetype": {
+      "versions": {
+        "0.0.1-SNAPSHOT": "https://raw.githubusercontent.com/Rawad-AG/forge-plugins/main/plugins/archetype-0.0.1-SNAPSHOT.jar"
       },
       "latest": "0.0.1-SNAPSHOT"
     }
