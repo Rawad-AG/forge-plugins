@@ -19,6 +19,13 @@
         "0.0.1-SNAPSHOT": "https://raw.githubusercontent.com/Rawad-AG/forge-plugins/main/plugins/archetype-0.0.1-SNAPSHOT.jar"
       },
       "latest": "0.0.1-SNAPSHOT"
+    },
+
+    "nexo": {
+      "versions": {
+        "0.0.1-SNAPSHOT": "https://raw.githubusercontent.com/Rawad-AG/forge-plugins/main/plugins/nexo-0.0.1-SNAPSHOT.jar"
+      },
+      "latest": "0.0.1-SNAPSHOT"
     }
   },
 
