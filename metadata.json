@@ -26,19 +26,11 @@
         "0.0.1-SNAPSHOT": "https://raw.githubusercontent.com/Rawad-AG/forge-plugins/main/plugins/nexo-0.0.1-SNAPSHOT.jar"
       },
       "latest": "0.0.1-SNAPSHOT"
-    }
-  },
-
-  "lib": {
-    "base": {
-      "versions": {
-        "0.0.1-SNAPSHOT": "https://raw.githubusercontent.com/Rawad-AG/forge-plugins/main/lib/base-0.0.1-SNAPSHOT.jar"
-      },
-      "latest": "0.0.1-SNAPSHOT"
     },
-    "process-parser": {
+
+    "codeforces": {
       "versions": {
-        "0.0.1-SNAPSHOT": "https://raw.githubusercontent.com/Rawad-AG/forge-plugins/main/lib/process-parser-0.0.1-SNAPSHOT.jar"
+        "0.0.1-SNAPSHOT": "https://raw.githubusercontent.com/Rawad-AG/forge-plugins/main/plugins/codeforces-0.0.1-SNAPSHOT.jar"
       },
       "latest": "0.0.1-SNAPSHOT"
     }
